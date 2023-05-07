@@ -82,7 +82,7 @@ body {
   font-size: 18px;
   line-height: 22px;
 }
-.main_content a {
+.main_content_a {
   transform: rotate(-90deg);
   padding-top: 80px;
   padding-right: 20px;
@@ -90,9 +90,9 @@ body {
   line-height: 20px;
   color: #828282;
 }
-.main_content a {
+.main_content_a {
   transition: 0.3s;
 }
-.main_content a:hover {
+.main_content_a a:hover {
   color: black;
 }
