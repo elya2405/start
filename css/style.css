@@ -14,3 +14,17 @@ body {
   content: "";
   display: table;
 }
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
