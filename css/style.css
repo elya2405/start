@@ -28,3 +28,19 @@ img {
   width: 100%;
   height: auto;
 }
+body {
+  color: black;
+  font-size: 18px;
+  line-height: 22px;
+  width: 100%;
+  font-family: "Roboto", arial, sans-serif;
+  font-weight: 500;
+}
+
+.container {
+  max-width: 974px;
+  width: 100%;
+  min-width: 320px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
