@@ -47,6 +47,7 @@ body {
 /*header*/
 .menu {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   color: #828282;
   font-style: 18px;
@@ -64,11 +65,20 @@ body {
 /*main*/
 .main_content {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   margin-top: 40px;
 }
 .main_content h1 {
   font-size: 47px;
   line-height: 58px;
-  width: 50px;
+  width: 20%;
+}
+.main_content_p {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding-top: 60px;
+  font-size: 18px;
+  line-height: 22px;
 }
