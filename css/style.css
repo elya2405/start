@@ -88,11 +88,11 @@ body {
   padding-right: 20px;
   font-size: 16px;
   line-height: 20px;
-  color: #828282;
+  color: black;
 }
-.main_content_a {
+.main_content_a a {
   transition: 0.3s;
 }
 .main_content_a a:hover {
-  color: black;
+  color: #828282;
 }
