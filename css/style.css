@@ -100,3 +100,29 @@ body {
   margin-top: 50px;
   margin-bottom: 104px;
 }
+
+.bg {
+  background-color: #f6f6f6;
+}
+.title {
+  font-size: 34px;
+  line-height: 42px;
+  font-weight: 700;
+}
+/*About*/
+.about {
+  padding: 120px 0 107px;
+  text-align: center;
+}
+.about .title {
+  margin-bottom: 18px;
+}
+.about_txt {
+  font-size: 18px;
+  line-height: 22px;
+  margin-bottom: 40px;
+}
+
+.about_txt:last-child {
+  margin-bottom: 0;
+}
