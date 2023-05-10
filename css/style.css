@@ -122,7 +122,15 @@ body {
   line-height: 22px;
   margin-bottom: 40px;
 }
-
+.about_txt_1 {
+  max-width: 511px;
+}
+.about_txt_2 {
+  max-width: 415px;
+}
+.about_txt_3 {
+  max-width: 333px;
+}
 .about_txt:last-child {
   margin-bottom: 0;
 }
